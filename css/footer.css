@@ -1,0 +1,12 @@
+.footer {
+    color: rgb(4, 4, 148);
+}
+
+.footer__email {
+    font-style: italic;
+}
+
+.footer__button {
+    color: #eee;
+    background-color: #8b8888;
+}

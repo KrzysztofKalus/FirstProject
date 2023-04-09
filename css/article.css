@@ -1,0 +1,18 @@
+.article {
+    box-shadow: 2px 2px 8px #ccc;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.article__subtitle {
+    color: rgb(50, 50, 221);
+    text-shadow: 1px 1px 2px rgb(154, 154, 231);
+}
+
+.article__paragraph {
+    color: #222;
+}
+
+.article__paragraph--important {
+    color: teal;
+}

@@ -1,0 +1,24 @@
+.navigation {
+    padding: 5px;
+}
+
+.navigation__list {
+    list-style: none;
+    padding-left: 10px;
+}
+
+.navigation__item {
+    margin: 5px;
+}
+
+.navigation__link {
+    text-decoration: none;
+}
+
+.navigation:focus {
+    outline: 2px solid currentColor;
+}
+
+.navigation__link:hover {
+    background-color: #d5d3d3;
+}
