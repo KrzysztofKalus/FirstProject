@@ -4,9 +4,9 @@
     margin-bottom: 20px;
 }
 
-.section__subtitle {
+.section__title {
     color: rgb(50, 50, 221);
-    text-shadow: 1px 1px 2px rgb(154, 154, 231);
+    text-shadow: 1px 1px 2px #9a9ae7;
 }
 
 .section__paragraph {
