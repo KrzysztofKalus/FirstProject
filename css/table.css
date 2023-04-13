@@ -33,7 +33,7 @@
 }
 
 .table__row:nth-child(odd) {
-    background-color: #dfdede;
+    background-color: hsl(0, 2%, 87%);
 }
 
 .table__row:hover {
