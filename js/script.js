@@ -2,6 +2,7 @@
     const welcome = () => {
         console.log("Cześć! Miło mi, że zaglądasz tutaj.")
     }
+    welcome();
 
     const onChangeBacgroundClick = () => {
         const changeButton = document.querySelector(".footer__button");
@@ -18,7 +19,6 @@
     const init = () => {
         const changeButton = document.querySelector(".footer__button");
         changeButton.addEventListener("click", onChangeBacgroundClick);
-        welcome();
     }
     init();
 }
